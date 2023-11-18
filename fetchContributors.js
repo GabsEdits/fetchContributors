@@ -4,17 +4,21 @@ import fs from 'fs/promises';
 async function fetchContributorsData() {
   let contributors = [];
 
+  const headers = {
+    'Authorization': `token ${process.env.GITHUB_TOKEN}`
+  };
+
   try {
-    const orgReposResponse = await fetch('https://api.github.com/orgs/Vanilla-OS/repos');
+    const orgReposResponse = await fetch('https://api.github.com/orgs/Vanilla-OS/repos', { headers });
     const orgReposData = await orgReposResponse.json();
 
     for (const repo of orgReposData) {
-      const contributorsResponse = await fetch(repo.contributors_url);
+      const contributorsResponse = await fetch(repo.contributors_url, { headers });
       const contributorsData = await contributorsResponse.json();
 
       for (const contributor of contributorsData) {
         if (!contributors.some((c) => c.login === contributor.login)) {
-          const userDetailsResponse = await fetch(`https://api.github.com/users/${contributor.login}`);
+          const userDetailsResponse = await fetch(`https://api.github.com/users/${contributor.login}`, { headers });
           const userDetails = await userDetailsResponse.json();
 
           contributors.push({
