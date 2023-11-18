@@ -5,7 +5,7 @@ async function fetchContributorsData() {
   let contributors = [];
 
   const headers = {
-    'Authorization': `token ${{ secrets.GITHUB_TOKEN }}`
+    'Authorization': `token ${process.env.token}`
   };
 
   try {
