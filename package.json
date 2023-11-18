@@ -1,0 +1,27 @@
+{
+  "name": "fetchcontributors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetchContributors.ts",
+  "type": "module",
+  "scripts": {
+    "start": "node fetchContributors.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabsEdits/fetchContributors.git"
+  },
+  "author": "Gabriel Cozma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabsEdits/fetchContributors/issues"
+  },
+  "homepage": "https://github.com/GabsEdits/fetchContributors#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node": "^21.1.0",
+    "node-fetch": "^3.3.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

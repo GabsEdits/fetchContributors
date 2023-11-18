@@ -1,9 +1,9 @@
-const fetch = require('node-fetch');
-const fs = require('fs');
+import fetch from 'node-fetch';
+import fs from 'fs/promises';
 
-const contributorsData = [];
+async function fetchContributorsData() {
+  let contributors = [];
 
-const fetchContributors = async () => {
   try {
     const orgReposResponse = await fetch('https://api.github.com/orgs/Vanilla-OS/repos');
     const orgReposData = await orgReposResponse.json();
@@ -28,12 +28,10 @@ const fetchContributors = async () => {
       }
     }
 
-    fs.writeFileSync('contributorsData.json', JSON.stringify(contributors));
-
-    console.log('Data fetched and saved successfully.');
+    await fs.writeFile('contributors.json', JSON.stringify(contributors, null, 2));
   } catch (error) {
     console.error('Error fetching contributors:', error);
   }
-};
+}
 
-fetchContributors();
+fetchContributorsData();
