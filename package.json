@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/GabsEdits/fetchContributors#readme",
   "dependencies": {
-    "fs": "^0.0.1-security",
+    "fs.promises": "^0.1.2",
     "node": "^21.1.0",
     "node-fetch": "^3.3.2",
     "ts-node": "^10.9.1",
