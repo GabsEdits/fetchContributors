@@ -456,7 +456,7 @@
   },
   {
     "id": 78281477,
-    "name": "/dev/null",
+    "name": "kyee-rs",
     "login": "kyee-rs",
     "avatar_url": "https://avatars.githubusercontent.com/u/78281477?v=4",
     "profile_url": "https://github.com/kyee-rs"
@@ -679,13 +679,6 @@
     "profile_url": "https://github.com/wesleybertipaglia"
   },
   {
-    "id": 77155297,
-    "name": "David Lapshin",
-    "login": "daudix",
-    "avatar_url": "https://avatars.githubusercontent.com/u/77155297?v=4",
-    "profile_url": "https://github.com/daudix"
-  },
-  {
     "id": 91050580,
     "name": "azuki",
     "login": "azu0609",
@@ -733,6 +726,13 @@
     "login": "zerng07",
     "avatar_url": "https://avatars.githubusercontent.com/u/1706450?v=4",
     "profile_url": "https://github.com/zerng07"
+  },
+  {
+    "id": 77155297,
+    "name": "David Lapshin",
+    "login": "daudix",
+    "avatar_url": "https://avatars.githubusercontent.com/u/77155297?v=4",
+    "profile_url": "https://github.com/daudix"
   },
   {
     "id": 4143535,
