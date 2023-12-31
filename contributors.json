@@ -56,6 +56,13 @@
     "profile_url": "https://github.com/axtloss"
   },
   {
+    "id": 54065734,
+    "name": "Muqtadir",
+    "login": "Muqtxdir",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54065734?v=4",
+    "profile_url": "https://github.com/Muqtxdir"
+  },
+  {
     "id": 36039861,
     "name": "lakejason0",
     "login": "lakejason0",
@@ -68,13 +75,6 @@
     "login": "mt-gitlocalize",
     "avatar_url": "https://avatars.githubusercontent.com/u/34438160?v=4",
     "profile_url": "https://github.com/mt-gitlocalize"
-  },
-  {
-    "id": 54065734,
-    "name": "Muqtadir",
-    "login": "Muqtxdir",
-    "avatar_url": "https://avatars.githubusercontent.com/u/54065734?v=4",
-    "profile_url": "https://github.com/Muqtxdir"
   },
   {
     "id": 95353984,
@@ -378,6 +378,13 @@
     "profile_url": "https://github.com/amsyarzero"
   },
   {
+    "id": 93660053,
+    "name": "CITWil",
+    "login": "CITWil",
+    "avatar_url": "https://avatars.githubusercontent.com/u/93660053?v=4",
+    "profile_url": "https://github.com/CITWil"
+  },
+  {
     "id": 88796674,
     "name": "b4xsh0r",
     "login": "b4xsh0r",
@@ -427,13 +434,6 @@
     "profile_url": "https://github.com/MonsterObserver"
   },
   {
-    "id": 117284953,
-    "name": "Mrtut",
-    "login": "Murattut",
-    "avatar_url": "https://avatars.githubusercontent.com/u/117284953?v=4",
-    "profile_url": "https://github.com/Murattut"
-  },
-  {
     "id": 80379684,
     "name": "Noah",
     "login": "noahdotpy",
@@ -456,14 +456,14 @@
   },
   {
     "id": 119804311,
-    "name": "gregorni",
+    "name": "Gregor Niehl",
     "login": "gregorni",
     "avatar_url": "https://avatars.githubusercontent.com/u/119804311?v=4",
     "profile_url": "https://github.com/gregorni"
   },
   {
     "id": 78281477,
-    "name": "kyee-rs",
+    "name": "Peter",
     "login": "kyee-rs",
     "avatar_url": "https://avatars.githubusercontent.com/u/78281477?v=4",
     "profile_url": "https://github.com/kyee-rs"
@@ -733,6 +733,13 @@
     "login": "daudix",
     "avatar_url": "https://avatars.githubusercontent.com/u/77155297?v=4",
     "profile_url": "https://github.com/daudix"
+  },
+  {
+    "id": 2234449,
+    "name": "Heru Setiawan",
+    "login": "hrstwn",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2234449?v=4",
+    "profile_url": "https://github.com/hrstwn"
   },
   {
     "id": 4143535,
