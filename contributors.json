@@ -236,7 +236,7 @@
   },
   {
     "id": 47012804,
-    "name": "George Santiago",
+    "name": "John Doe",
     "login": "song-juo"
   },
   {
@@ -248,6 +248,11 @@
     "id": 31220180,
     "name": "jim3692",
     "login": "jim3692"
+  },
+  {
+    "id": 4555064,
+    "name": "guylamar2006",
+    "login": "guylamar2006"
   },
   {
     "id": 49699333,
@@ -303,11 +308,6 @@
     "id": 57767907,
     "name": "x0x-code",
     "login": "x0x-code"
-  },
-  {
-    "id": 18313096,
-    "name": "Peter Rakmanyi",
-    "login": "peterrakmanyi"
   },
   {
     "id": 598882,
@@ -740,14 +740,14 @@
     "login": "dmustieles"
   },
   {
-    "id": 151380,
-    "name": "Richard Hughes",
-    "login": "hughsie"
-  },
-  {
     "id": 876259,
     "name": "Jeremy Bicha",
     "login": "jbicha"
+  },
+  {
+    "id": 151380,
+    "name": "Richard Hughes",
+    "login": "hughsie"
   },
   {
     "id": 1873039,
@@ -810,11 +810,6 @@
     "login": "Marv-CZ"
   },
   {
-    "id": 4584,
-    "name": "Fran Diéguez",
-    "login": "frandieguez"
-  },
-  {
     "id": 2255859,
     "name": "Yuri Chornoivan",
     "login": "yurchor"
@@ -823,6 +818,11 @@
     "id": 3609611,
     "name": "Michael Biebl",
     "login": "mbiebl"
+  },
+  {
+    "id": 4584,
+    "name": "Fran Diéguez",
+    "login": "frandieguez"
   },
   {
     "id": 27228204,
