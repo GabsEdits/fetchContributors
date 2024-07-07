@@ -55,24 +55,14 @@
     "login": "mt-gitlocalize"
   },
   {
-    "id": 44101694,
-    "name": "Tau",
-    "login": "taukakao"
-  },
-  {
     "id": 73386616,
     "name": "Muhammad Salman",
     "login": "muhdsalm"
   },
   {
-    "id": 923008,
-    "name": "nicolas",
-    "login": "nclm"
-  },
-  {
-    "id": 43197,
-    "name": "Luna Jernberg",
-    "login": "bittin"
+    "id": 44101694,
+    "name": "Tau",
+    "login": "taukakao"
   },
   {
     "id": 13943260,
@@ -83,6 +73,16 @@
     "id": 42119227,
     "name": "Kung-chih",
     "login": "Kaitul"
+  },
+  {
+    "id": 43197,
+    "name": "Luna Jernberg",
+    "login": "bittin"
+  },
+  {
+    "id": 923008,
+    "name": "nicolas",
+    "login": "nclm"
   },
   {
     "id": 37634431,
@@ -155,9 +155,9 @@
     "login": "Aeases"
   },
   {
-    "id": 68018116,
-    "name": "Sven",
-    "login": "SKBotNL"
+    "id": 56601374,
+    "name": "_Ghost_",
+    "login": "duch3201"
   },
   {
     "id": 41835930,
@@ -270,6 +270,11 @@
     "login": "spaceguybob"
   },
   {
+    "id": 173463839,
+    "name": "niilamagga",
+    "login": "niilamagga"
+  },
+  {
     "id": 107216572,
     "name": "rhcalderon",
     "login": "rhcalderon"
@@ -285,6 +290,11 @@
     "login": "jamiethecat"
   },
   {
+    "id": 76573761,
+    "name": "muhammadbahaa2001",
+    "login": "muhammadbahaa2001"
+  },
+  {
     "id": 107274834,
     "name": "nacho12martin",
     "login": "nacho12martin"
@@ -293,16 +303,6 @@
     "id": 18313096,
     "name": "Peter Rakmanyi",
     "login": "peterrakmanyi"
-  },
-  {
-    "id": 57767907,
-    "name": "x0x-code",
-    "login": "x0x-code"
-  },
-  {
-    "id": 5367484,
-    "name": "Ruben Horn",
-    "login": "rubenhorn"
   },
   {
     "id": 598882,
@@ -470,6 +470,11 @@
     "login": "wesleybertipaglia"
   },
   {
+    "id": 68018116,
+    "name": "Sven",
+    "login": "SKBotNL"
+  },
+  {
     "id": 7948133,
     "name": "Silenc3IsGold3n",
     "login": "Silenc3IsGold3n"
@@ -633,11 +638,6 @@
     "id": 70911321,
     "name": "Mr.Narsus",
     "login": "MrNarsus"
-  },
-  {
-    "id": 56601374,
-    "name": "_Ghost_",
-    "login": "duch3201"
   },
   {
     "id": 31544054,
