@@ -216,7 +216,7 @@
   },
   {
     "id": 611168,
-    "name": "Hallowemo Cassidy",
+    "name": "Cassidy James Blaede",
     "login": "cassidyjames"
   },
   {
@@ -705,6 +705,11 @@
     "login": "robert-ancell"
   },
   {
+    "id": 365434,
+    "name": "Felipe Borges",
+    "login": "felipeborges"
+  },
+  {
     "id": 3518204,
     "name": "Georges Basile Stavracas Neto",
     "login": "GeorgesStavracas"
@@ -713,11 +718,6 @@
     "id": 4068467,
     "name": "fizzet",
     "login": "fizzet"
-  },
-  {
-    "id": 365434,
-    "name": "Felipe Borges",
-    "login": "felipeborges"
   },
   {
     "id": 495725,
@@ -735,14 +735,14 @@
     "login": "piotrdrag"
   },
   {
-    "id": 1662540,
-    "name": "dmustieles",
-    "login": "dmustieles"
-  },
-  {
     "id": 876259,
     "name": "Jeremy Bicha",
     "login": "jbicha"
+  },
+  {
+    "id": 1662540,
+    "name": "dmustieles",
+    "login": "dmustieles"
   },
   {
     "id": 151380,
@@ -790,6 +790,11 @@
     "login": "jordimas"
   },
   {
+    "id": 40809145,
+    "name": "velsinki",
+    "login": "velsinki"
+  },
+  {
     "id": 1561141,
     "name": "Simon McVittie",
     "login": "smcv"
@@ -815,14 +820,14 @@
     "login": "yurchor"
   },
   {
-    "id": 3609611,
-    "name": "Michael Biebl",
-    "login": "mbiebl"
-  },
-  {
     "id": 27228204,
     "name": "tmtfx",
     "login": "tmtfx"
+  },
+  {
+    "id": 3609611,
+    "name": "Michael Biebl",
+    "login": "mbiebl"
   },
   {
     "id": 641106,
@@ -830,19 +835,14 @@
     "login": "aurisc4"
   },
   {
-    "id": 2536339,
-    "name": "Adrien Plazas",
-    "login": "Kekun"
-  },
-  {
-    "id": 3208107,
-    "name": "Debarshi Ray",
-    "login": "debarshiray"
-  },
-  {
     "id": 406826,
     "name": "Yaron Shahrabani",
     "login": "yarons"
+  },
+  {
+    "id": 2536339,
+    "name": "Adrien Plazas",
+    "login": "Kekun"
   },
   {
     "id": 5883565,
