@@ -261,7 +261,7 @@
   },
   {
     "id": 47012804,
-    "name": "antibot",
+    "name": "xiang",
     "login": "0x0m0r1"
   },
   {
@@ -415,9 +415,9 @@
     "login": "TheEvilSkeleton"
   },
   {
-    "id": 79379711,
-    "name": "Ali Paredes",
-    "login": "alinpr18"
+    "id": 33965649,
+    "name": "Jonas Loos",
+    "login": "JonasLoos"
   },
   {
     "id": 62032328,
@@ -425,14 +425,19 @@
     "login": "leoscc"
   },
   {
-    "id": 33965649,
-    "name": "Jonas Loos",
-    "login": "JonasLoos"
+    "id": 79379711,
+    "name": "Ali Paredes",
+    "login": "alinpr18"
   },
   {
     "id": 93224879,
     "name": "Dallas Strouse",
     "login": "orowith2os"
+  },
+  {
+    "id": 57559711,
+    "name": "Kelvin Hey",
+    "login": "kelvin-hey"
   },
   {
     "id": 105821181,
@@ -478,11 +483,6 @@
     "id": 44733677,
     "name": "Kainoa Kanter",
     "login": "ThatOneCalculator"
-  },
-  {
-    "id": 197515,
-    "name": "josefkelly",
-    "login": "josefkelly"
   },
   {
     "id": 91050580,
