@@ -290,11 +290,6 @@
     "login": "arejula27"
   },
   {
-    "id": 150687949,
-    "name": "V.",
-    "login": "vigress8"
-  },
-  {
     "id": 59851660,
     "name": "nellfs",
     "login": "nellfs"
@@ -755,6 +750,11 @@
     "login": "rtcm"
   },
   {
+    "id": 876259,
+    "name": "Jeremy Bicha",
+    "login": "jbicha"
+  },
+  {
     "id": 55232,
     "name": "Thomas Wood",
     "login": "thos"
@@ -765,14 +765,14 @@
     "login": "piotrdrag"
   },
   {
-    "id": 876259,
-    "name": "Jeremy Bicha",
-    "login": "jbicha"
-  },
-  {
     "id": 1662540,
     "name": "dmustieles",
     "login": "dmustieles"
+  },
+  {
+    "id": 40809145,
+    "name": "velsinki",
+    "login": "velsinki"
   },
   {
     "id": 151380,
@@ -795,6 +795,11 @@
     "login": "JodyGoldberg"
   },
   {
+    "id": 309265,
+    "name": "Jordi Mas",
+    "login": "jordimas"
+  },
+  {
     "id": 1289514,
     "name": "Mohammed Sadiq",
     "login": "pksadiq"
@@ -815,24 +820,9 @@
     "login": "yoseforb"
   },
   {
-    "id": 309265,
-    "name": "Jordi Mas",
-    "login": "jordimas"
-  },
-  {
-    "id": 40809145,
-    "name": "velsinki",
-    "login": "velsinki"
-  },
-  {
     "id": 1561141,
     "name": "Simon McVittie",
     "login": "smcv"
-  },
-  {
-    "id": 22331,
-    "name": "Loïc Minier",
-    "login": "lool"
   },
   {
     "id": 46663,
@@ -840,14 +830,19 @@
     "login": "garnacho"
   },
   {
-    "id": 16525614,
-    "name": "Marv-CZ",
-    "login": "Marv-CZ"
+    "id": 22331,
+    "name": "Loïc Minier",
+    "login": "lool"
   },
   {
     "id": 2255859,
     "name": "Yuri Chornoivan",
     "login": "yurchor"
+  },
+  {
+    "id": 16525614,
+    "name": "Marv-CZ",
+    "login": "Marv-CZ"
   },
   {
     "id": 27228204,
