@@ -65,19 +65,19 @@
     "login": "muhdsalm"
   },
   {
-    "id": 34438160,
-    "name": "mt-gitlocalize",
-    "login": "mt-gitlocalize"
-  },
-  {
     "id": 43197,
     "name": "Luna Jernberg",
     "login": "bittin"
   },
   {
-    "id": 923008,
-    "name": "nicolas",
-    "login": "nclm"
+    "id": 34438160,
+    "name": "mt-gitlocalize",
+    "login": "mt-gitlocalize"
+  },
+  {
+    "id": 42119227,
+    "name": "Kung-chih",
+    "login": "Kaitul"
   },
   {
     "id": 76390419,
@@ -85,9 +85,19 @@
     "login": "driedpampas"
   },
   {
-    "id": 42119227,
-    "name": "Kung-chih",
-    "login": "Kaitul"
+    "id": 923008,
+    "name": "nicolas",
+    "login": "nclm"
+  },
+  {
+    "id": 79898595,
+    "name": "LinuxNewbie",
+    "login": "abuhuraira0099"
+  },
+  {
+    "id": 7643584,
+    "name": "Andi Chandler",
+    "login": "andibing"
   },
   {
     "id": 94297792,
@@ -110,19 +120,9 @@
     "login": "hugok79"
   },
   {
-    "id": 7643584,
-    "name": "Andi Chandler",
-    "login": "andibing"
-  },
-  {
     "id": 61416323,
     "name": "Serg Takawa",
     "login": "4e6anenk0"
-  },
-  {
-    "id": 79898595,
-    "name": "LinuxNewbie",
-    "login": "abuhuraira0099"
   },
   {
     "id": 55644440,
@@ -170,14 +170,14 @@
     "login": "SkyWolf369"
   },
   {
-    "id": 96554164,
-    "name": "cat-master21",
-    "login": "cat-master21"
-  },
-  {
     "id": 20534082,
     "name": "NN708",
     "login": "NN708"
+  },
+  {
+    "id": 96554164,
+    "name": "cat-master21",
+    "login": "cat-master21"
   },
   {
     "id": 24401303,
@@ -357,7 +357,7 @@
   {
     "id": 65921801,
     "name": "Raphaël Denni",
-    "login": "raphaeldenni"
+    "login": "raphael-denni"
   },
   {
     "id": 110575082,
