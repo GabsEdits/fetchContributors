@@ -240,24 +240,14 @@
     "login": "OpenSauce04"
   },
   {
-    "id": 96767159,
-    "name": "Notch Apple",
-    "login": "NotchApple1703"
-  },
-  {
     "id": 1565836,
     "name": "Bart Ribbers",
     "login": "PureTryOut"
   },
   {
-    "id": 8885837,
-    "name": "Aindriú Mac Giolla Eoin",
-    "login": "aindriu80"
-  },
-  {
-    "id": 83867734,
-    "name": "Antonio",
-    "login": "D3vil0p3r"
+    "id": 96767159,
+    "name": "Notch Apple",
+    "login": "NotchApple1703"
   },
   {
     "id": 49699333,
@@ -265,14 +255,19 @@
     "login": "dependabot[bot]"
   },
   {
-    "id": 173463839,
-    "name": "niilamagga",
-    "login": "niilamagga"
+    "id": 83867734,
+    "name": "Antonio",
+    "login": "D3vil0p3r"
   },
   {
-    "id": 47012804,
-    "name": "ishim",
-    "login": "ichioda"
+    "id": 8885837,
+    "name": "Aindriú Mac Giolla Eoin",
+    "login": "aindriu80"
+  },
+  {
+    "id": 103105829,
+    "name": "Kefir2105",
+    "login": "Kefir2105"
   },
   {
     "id": 628474,
@@ -280,9 +275,14 @@
     "login": "Atalanttore"
   },
   {
-    "id": 103105829,
-    "name": "Kefir2105",
-    "login": "Kefir2105"
+    "id": 47012804,
+    "name": "ishim",
+    "login": "ichioda"
+  },
+  {
+    "id": 173463839,
+    "name": "niilamagga",
+    "login": "niilamagga"
   },
   {
     "id": 46299278,
