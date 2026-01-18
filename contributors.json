@@ -235,19 +235,24 @@
     "login": "bketelsen"
   },
   {
+    "id": 49699333,
+    "name": "dependabot[bot]",
+    "login": "dependabot[bot]"
+  },
+  {
     "id": 48618519,
     "name": "OpenSauce",
     "login": "OpenSauce04"
   },
   {
-    "id": 96767159,
-    "name": "Notch Apple",
-    "login": "NotchApple1703"
-  },
-  {
     "id": 1565836,
     "name": "Bart Ribbers",
     "login": "PureTryOut"
+  },
+  {
+    "id": 96767159,
+    "name": "Notch Apple",
+    "login": "NotchApple1703"
   },
   {
     "id": 8885837,
@@ -258,11 +263,6 @@
     "id": 83867734,
     "name": "Antonio",
     "login": "D3vil0p3r"
-  },
-  {
-    "id": 49699333,
-    "name": "dependabot[bot]",
-    "login": "dependabot[bot]"
   },
   {
     "id": 173463839,
