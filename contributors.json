@@ -65,24 +65,14 @@
     "login": "muhdsalm"
   },
   {
-    "id": 43197,
-    "name": "Luna Jernberg",
-    "login": "bittin"
-  },
-  {
     "id": 34438160,
     "name": "mt-gitlocalize",
     "login": "mt-gitlocalize"
   },
   {
-    "id": 42119227,
-    "name": "Kung-chih",
-    "login": "Kaitul"
-  },
-  {
-    "id": 76390419,
-    "name": "supernova",
-    "login": "driedpampas"
+    "id": 43197,
+    "name": "Luna Jernberg",
+    "login": "bittin"
   },
   {
     "id": 923008,
@@ -90,14 +80,14 @@
     "login": "nclm"
   },
   {
-    "id": 79898595,
-    "name": "LinuxNewbie",
-    "login": "abuhuraira0099"
+    "id": 76390419,
+    "name": "supernova",
+    "login": "driedpampas"
   },
   {
-    "id": 7643584,
-    "name": "Andi Chandler",
-    "login": "andibing"
+    "id": 42119227,
+    "name": "Kung-chih",
+    "login": "Kaitul"
   },
   {
     "id": 94297792,
@@ -120,9 +110,19 @@
     "login": "hugok79"
   },
   {
+    "id": 7643584,
+    "name": "Andi Chandler",
+    "login": "andibing"
+  },
+  {
     "id": 61416323,
     "name": "Serg Takawa",
     "login": "4e6anenk0"
+  },
+  {
+    "id": 79898595,
+    "name": "LinuxNewbie",
+    "login": "abuhuraira0099"
   },
   {
     "id": 55644440,
@@ -760,14 +760,14 @@
     "login": "seb128"
   },
   {
-    "id": 495725,
-    "name": "rtcm",
-    "login": "rtcm"
-  },
-  {
     "id": 40809145,
     "name": "velsinki",
     "login": "velsinki"
+  },
+  {
+    "id": 495725,
+    "name": "rtcm",
+    "login": "rtcm"
   },
   {
     "id": 55232,
