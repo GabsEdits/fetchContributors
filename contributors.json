@@ -177,7 +177,7 @@
   {
     "id": 24401303,
     "name": "Joshua Peisach (ItzSwirlz)",
-    "login": "JPeisach"
+    "login": "jpeisach"
   },
   {
     "id": 51861383,
@@ -350,14 +350,14 @@
     "login": "senni-huemwang"
   },
   {
-    "id": 62212220,
-    "name": "JumpyVi",
-    "login": "jumpyvi"
-  },
-  {
     "id": 10291989,
     "name": "Luis Manuel Arrieta Avila",
     "login": "MasterGeekMX"
+  },
+  {
+    "id": 62212220,
+    "name": "JumpyVi",
+    "login": "jumpyvi"
   },
   {
     "id": 83340886,
@@ -405,24 +405,14 @@
     "login": "vladdoster"
   },
   {
-    "id": 13711415,
-    "name": "Benjamin Beganović",
-    "login": "beganovich"
-  },
-  {
     "id": 50847364,
     "name": "Hari Rana",
     "login": "TheEvilSkeleton"
   },
   {
-    "id": 79379711,
-    "name": "Ali Paredes",
-    "login": "alinpr18"
-  },
-  {
-    "id": 62032328,
-    "name": "Leonardo Carvalho",
-    "login": "leoscc"
+    "id": 13711415,
+    "name": "Benjamin Beganović",
+    "login": "beganovich"
   },
   {
     "id": 33965649,
@@ -430,14 +420,24 @@
     "login": "JonasLoos"
   },
   {
-    "id": 93224879,
-    "name": "Yves Auxier",
-    "login": "orowith2os"
+    "id": 62032328,
+    "name": "Leonardo Carvalho",
+    "login": "leoscc"
+  },
+  {
+    "id": 79379711,
+    "name": "Ali Paredes",
+    "login": "alinpr18"
   },
   {
     "id": 57559711,
     "name": "Kelvin Hey",
     "login": "kelvin-hey"
+  },
+  {
+    "id": 93224879,
+    "name": "Yves Auxier",
+    "login": "orowith2os"
   },
   {
     "id": 105821181,
