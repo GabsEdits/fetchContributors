@@ -715,14 +715,14 @@
     "login": "robert-ancell"
   },
   {
-    "id": 3518204,
-    "name": "Georges Basile Stavracas Neto",
-    "login": "GeorgesStavracas"
-  },
-  {
     "id": 876259,
     "name": "Jeremy Bicha",
     "login": "jbicha"
+  },
+  {
+    "id": 3518204,
+    "name": "Georges Basile Stavracas Neto",
+    "login": "GeorgesStavracas"
   },
   {
     "id": 4068467,
@@ -760,14 +760,14 @@
     "login": "piotrdrag"
   },
   {
-    "id": 1662540,
-    "name": "dmustieles",
-    "login": "dmustieles"
-  },
-  {
     "id": 345675,
     "name": "Marco Trevisan",
     "login": "3v1n0"
+  },
+  {
+    "id": 1662540,
+    "name": "dmustieles",
+    "login": "dmustieles"
   },
   {
     "id": 151380,
@@ -830,14 +830,14 @@
     "login": "garnacho"
   },
   {
-    "id": 22331,
-    "name": "Loïc Minier",
-    "login": "lool"
-  },
-  {
     "id": 2255859,
     "name": "Yuri Chornoivan",
     "login": "yurchor"
+  },
+  {
+    "id": 22331,
+    "name": "Loïc Minier",
+    "login": "lool"
   },
   {
     "id": 16525614,
